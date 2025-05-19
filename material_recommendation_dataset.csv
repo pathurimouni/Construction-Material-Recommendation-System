@@ -1,0 +1,9 @@
+Project_Size,Budget,Required_Quality,Labor_Cost,Profit_Rate,Recommended_Material
+Small,50000,High,10000,10,Steel
+Medium,150000,Medium,30000,15,Concrete
+Large,300000,High,50000,20,Steel
+Medium,120000,Low,25000,12,Wood
+Large,280000,Medium,48000,18,Concrete
+Small,45000,High,9000,11,Steel
+Medium,130000,Low,27000,14,Wood
+Large,310000,High,51000,19,Steel
